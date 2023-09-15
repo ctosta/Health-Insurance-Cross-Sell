@@ -179,7 +179,7 @@ Por lista ordenada (modelo), dos 381.109 clientes da Insurance All, cerca de 18%
 
 Já por lista aleatória, dos 381.109 clientes da Insurance All,  aproximadamente 5% deles demonstram interesse pelo seguro automotivo. Consequentemente, é razoável esperar que, a partir de 20.000 ligações, sejam estabelecidos 2.451 contratos, resultando em uma receita estimada de ₹26.9M por ano.
 
-O uso do modelo produzirá resultados 3.43 vezes melhores que a lista aleatória e a receita estimada é ₹65.48M.
+O uso do modelo produzirá resultados 3.43 vezes melhores que a lista aleatória, representando um ganho adicional estimado de ₹65.48M para a empresa.
 
 ![20mil](https://github.com/ctosta/Insurance-Company-Ranking/assets/84297748/2c3361d0-fcae-45a0-88b7-d16d20903956)
 
@@ -190,7 +190,7 @@ Por lista ordenada (modelo), dos 381.109 clientes da Insurance All, cerca de 34%
 
 Por lista aleatória, dos 381.109 clientes da Insurance All, cerca de 10% demonstraram interesse pelo seguro automóvel. Logo, pode-se esperar que das 40.000 ligações, haverá 4.903 contratos, e uma receita estimada de ₹53.81M por ano.
 
- O uso do modelo produzirá resultados 3.19 vezes melhores que a lista aleatória e a receita estimada é ₹117.93M.
+ O uso do modelo produzirá resultados 3.19 vezes melhores que a lista aleatória, representando um ganho adicional estimado de ₹117.93M para a empresa.
 
 ![40mil](https://github.com/ctosta/Insurance-Company-Ranking/assets/84297748/bd36a0aa-ec4e-4d87-ab16-73f601ffb272)
 
@@ -198,7 +198,7 @@ Por lista aleatória, dos 381.109 clientes da Insurance All, cerca de 10% demons
 
 A equipe de vendas precisará realizar 117.200 ligações, resultando na celebração de 37.382 novos contratos e uma receita estimada de ₹410.3M por ano.
 
-O uso do modelo produzirá resultados 2.6 vezes melhores que a lista aleatória e a receita estimada é ₹252.64M.
+O uso do modelo produzirá resultados 2.6 vezes melhores que a lista aleatória, representando um ganho adicional estimado de ₹252.64M para a empresa.
 
 ![80porcento](https://github.com/ctosta/Insurance-Company-Ranking/assets/84297748/084f38b7-da40-4c2a-921a-eb7750765954)
 
