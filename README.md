@@ -69,7 +69,7 @@ response | 1 : O cliente está interessado, 0 : O cliente não está interessado
 
 ## 3.2. Processo
 
-A abordagem escolhida para resolver o desafio se fundamenta na metodologia  CRISP-DS:
+A abordagem escolhida para resolver o desafio se fundamenta na metodologia  CRISP-DM:
 
 ### 3.2.1 Compreensão do Negócio (Business Understanding):
 
